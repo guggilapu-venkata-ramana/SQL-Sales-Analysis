@@ -94,6 +94,10 @@ The analysis of 500 sales transactions produced the following results:
 
 An interactive Power BI dashboard was created using the same sales dataset.
 
+### Dashboard Preview
+
+![Power BI Sales Dashboard](sales_dashboard_powerbi.png)
+
 ### Dashboard Includes
 
 - Total Sales
