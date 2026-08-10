@@ -90,6 +90,28 @@ The analysis of 500 sales transactions produced the following results:
 
 ![Sales KPIs](sales_kpis.png)
 
+## 📊 Power BI Dashboard
+
+An interactive Power BI dashboard was created using the same sales dataset.
+
+### Dashboard Includes
+
+- Total Sales
+- Total Orders
+- Total Customers
+- Average Order Value
+- Sales by Category
+- Sales by Region
+- Sales by State
+- Sales by Product
+- Sales by Payment Mode
+- Monthly Sales Trends
+- Customer Sales Performance
+
+### Power BI Project File
+
+[Download Power BI Dashboard](Sales_Analysis_Dashboard_PowerBI.pbix)
+
 ## 👨‍💻 Author
 
 **Guggilapu Venkata Ramana**
@@ -99,4 +121,3 @@ Aspiring Data Analyst | SQL | Power BI | Python | Excel
 📧 [vguggilapu105@gmail.com](mailto:vguggilapu105@gmail.com)
 
 🔗 **LinkedIn:** [Venkata Ramana](https://www.linkedin.com/in/venkata-ramana-guggilapu-179008382/)
-
