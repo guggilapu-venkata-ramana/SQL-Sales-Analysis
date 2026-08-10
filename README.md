@@ -44,20 +44,17 @@ The goal is to answer practical business questions using SQL and generate action
 
 - `sales_analysis.sql` – SQL queries used for the analysis
 - `sales_data.csv` – Dataset used for the project
-
+  
 ## 💡 Key Insights
 
-Insights will be added after completing the SQL analysis.
+- The dataset contains 500 sales transactions from January to December 2025.
+- Electronics recorded the highest number of orders with 127 transactions.
+- Total sales revenue was 7,968,558.30.
+- The average order value was 15,937.12.
+- The average discount across all transactions was 6.86%.
+- The dataset contains 20 unique customers.
 
-## 👨‍💻 Author
-
-**Guggilapu Venkata Ramana**
-
-Aspiring Data Analyst | SQL | Power BI | Python | Excel
-
-📧 vguggilapu105@gmail.com
-🔗 **LinkedIn:** [Venkata Ramana](https://www.linkedin.com/in/venkata-ramana-guggilapu-179008382/)
-## Key Results
+## 📊 Key Results
 
 The analysis of 500 sales transactions produced the following results:
 
@@ -79,7 +76,7 @@ The analysis of 500 sales transactions produced the following results:
 | Furniture | 124 |
 | Home Appliances | 124 |
 
-## Analysis Screenshots
+## 📸 Analysis Screenshots
 
 ### Dataset Verification
 
@@ -92,3 +89,14 @@ The analysis of 500 sales transactions produced the following results:
 ### Sales KPIs
 
 ![Sales KPIs](sales_kpis.png)
+
+## 👨‍💻 Author
+
+**Guggilapu Venkata Ramana**
+
+Aspiring Data Analyst | SQL | Power BI | Python | Excel
+
+📧 [vguggilapu105@gmail.com](mailto:vguggilapu105@gmail.com)
+
+🔗 **LinkedIn:** [Venkata Ramana](https://www.linkedin.com/in/venkata-ramana-guggilapu-179008382/)
+
