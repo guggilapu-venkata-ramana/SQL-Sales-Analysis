@@ -57,3 +57,38 @@ Aspiring Data Analyst | SQL | Power BI | Python | Excel
 
 📧 vguggilapu105@gmail.com
 🔗 **LinkedIn:** [Venkata Ramana](https://www.linkedin.com/in/venkata-ramana-guggilapu-179008382/)
+## Key Results
+
+The analysis of 500 sales transactions produced the following results:
+
+| Metric | Result |
+|---|---:|
+| Total Orders | 500 |
+| Total Customers | 20 |
+| Total Quantity Sold | 1,495 |
+| Total Sales | 7,968,558.30 |
+| Average Order Value | 15,937.12 |
+| Average Discount | 6.86% |
+
+### Category Performance
+
+| Category | Orders |
+|---|---:|
+| Electronics | 127 |
+| Stationery | 125 |
+| Furniture | 124 |
+| Home Appliances | 124 |
+
+## Analysis Screenshots
+
+### Dataset Verification
+
+![Dataset Verification](dataset_verification.png)
+
+### Category Analysis
+
+![Category Analysis](category_analysis.png)
+
+### Sales KPIs
+
+![Sales KPIs](sales_kpis.png)
